@@ -1,5 +1,5 @@
 const express=require("express")
-const {PostModel}=require("./model/post.model")
+const {PostModel}=require("../model/post.model")
 
 const postRouter=express.Router();
 
